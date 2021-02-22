@@ -1,2 +1,0 @@
-/home/dani/Desktop/HW2-OS/autograder
-/home/dani/Desktop/HW2-OS
